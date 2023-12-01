@@ -1,0 +1,12 @@
+.chatbot {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.message-list {
+  list-style: none;
+}
+
+.input-bar {
+  margin-top: 10px;
+}
